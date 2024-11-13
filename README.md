@@ -1,4 +1,5 @@
 # LLM101n: Let's build a Storyteller
+!!! NOTE: this course does not yet exist. It is current being developed by Eureka Labs.
 
 ![LLM101n header image](llm101n.jpg)
 
